@@ -2,11 +2,14 @@ threadpool
 ==========
 
 A simple C++ threadpool
+
 Quick Start:
+
 	make
 	./thpool
 
 Basic usage:
+
 	/* create a threadpool */
 	LThreadPool lthpool(5);
 
